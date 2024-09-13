@@ -1,4 +1,5 @@
 import pytest
+import numpy as np
 import pandas as pd
 from pyspark.testing import assertDataFrameEqual
 from pyspark.sql import SparkSession
